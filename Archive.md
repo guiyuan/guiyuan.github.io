@@ -20,6 +20,4 @@ slug: Archive
 {% endfor %}
 </ul>
 
-### 这是本站的访问统计（Clicky提供的数据）
-<Script src="//widgets.clicky.com/tally/?site_id=100794732&sitekey=440ded735011724debbd89be2654180d&width=175&height=250&title=&hide_title=1&hide_branding=1" type="text/javascript"></script>
-
+<script src="//widgets.clicky.com/cloudy/?site_id=100794732&sitekey=18fca3e284c1c0fe40148e9566265872&width=200&height=500&date=last-7-days&type=searches&limit=30&title=&hide_title=1&hide_branding=1" type="text/javascript"></script>
