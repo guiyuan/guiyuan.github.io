@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 分类目录
+title: 目录
 slug: Archive
 ---
 ### 这是网站上现有的文章列表
@@ -20,4 +20,3 @@ slug: Archive
 {% endfor %}
 </ul>
 
-<script src="//widgets.clicky.com/cloudy/?site_id=100794732&sitekey=18fca3e284c1c0fe40148e9566265872&width=200&height=500&date=last-7-days&type=searches&limit=30&title=&hide_title=1&hide_branding=1" type="text/javascript"></script>
