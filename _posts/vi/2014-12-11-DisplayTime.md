@@ -13,13 +13,16 @@ category: vi
 来插入，不过格式不是我想要的，这种插入是形如`2014年12月11日 星期四 11时49分10秒 CST`这种格式。我想要的是`2014-12-11 11:43:15`这种格式的插入。
 
   在[CSDN](http://blog.csdn.net/linwhwylb/article/details/6284286)这篇文章中看到可以使用`strftime`来进行格式化输出，查了下`strftime`的用法，在.vimrc中添加如下两行就可以达到我的目标了：
- 
+ 	
  	:nnoremap<F5> "=strftime("%F %T")<CR>gP
+ 	
  	:inoremap<F5> <C-R>=strftime("%F %T")<CR>
+ 	
  	
  第一行是在正常模式下插入，第二行是在编辑模式下进行插入。
  
  下面列一些`strftime`的格式化命令说明（摘自[百度百科](http://baike.baidu.com/link?url=C-ge9XweA4tpnGvpPNFZA5cok5wy_epKdGXX8Fj6hFLXvUwEL_TtWfZLWzuXzQWzifSEhq_CChpO8PJ-LLk7oK)）：
+ 	
  	
  	%a 星期几的简写
 	%A 星期几的全称
