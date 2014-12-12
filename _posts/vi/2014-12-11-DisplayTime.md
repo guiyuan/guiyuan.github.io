@@ -23,6 +23,7 @@ category: vi
  下面列一些`strftime`的格式化命令说明（摘自[百度百科](http://baike.baidu.com/link?url=C-ge9XweA4tpnGvpPNFZA5cok5wy_epKdGXX8Fj6hFLXvUwEL_TtWfZLWzuXzQWzifSEhq_CChpO8PJ-LLk7oK)）：
 	
 	
+	
 	%a 星期几的简写
 	%A 星期几的全称
 	%b 月份的简写
