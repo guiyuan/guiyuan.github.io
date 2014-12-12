@@ -18,7 +18,7 @@ category: vi
 	:inoremap<F5> <C-R>=strftime("%F %T")<CR>
 	
 	
- 第一行是在正常模式下插入，第二行是在编辑模式下进行插入。
+ 第一行是在正常模式下插入，第二行是在编辑模式下进行插入(映射到快捷键F5)。
  
  下面列一些`strftime`的格式化命令说明（摘自[百度百科](http://baike.baidu.com/link?url=C-ge9XweA4tpnGvpPNFZA5cok5wy_epKdGXX8Fj6hFLXvUwEL_TtWfZLWzuXzQWzifSEhq_CChpO8PJ-LLk7oK)）：
 	
