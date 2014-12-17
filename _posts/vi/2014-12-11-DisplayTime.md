@@ -5,6 +5,8 @@ title: 在vi中插入时间
 author: guiyuan
 date: 2014-12-11 11:43:15
 category: vi
+keywords: vi,插入时间,strftime
+description: vi中插入指定格式的当前时间
 ---
 
    

@@ -5,6 +5,8 @@ title: Flappy Egg
 author: guiyuan
 date: 2014-12-16 23:14:47
 category: Unity3D
+keywords: Unity3D, Flappy bird, Unity4.6
+description: 模仿flappy bird写的一个小游戏
 ---
 
 
