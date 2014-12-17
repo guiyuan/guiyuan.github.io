@@ -10,7 +10,7 @@ description: 模仿flappy bird写的一个小游戏
 ---
 
 
-一直听别人说Unity怎么怎么，也看到好多unity3D开发的产品，但是也一直没有仔细去看过，前段时间刚好工作上要用unity3D开发一个Demo，就顺便学习了一下，Demo要的时间也很急，也是边做边学，做完回过头来看看，好多地方都不如意，比较乱，然后学习了一下官网的[教程](http://unity3d.com/learn/tutorials/projects/survival-shooter)，这个教程也基于Unity4.6版本的，添加了Unity自己的新UI模块，更便于制作UI。
+一直听别人说Unity怎么怎么，也看到好多unity3D开发的产品，但是也一直没有仔细去看过，前段时间刚好工作上要用unity3D开发一个Demo，就顺便学习了一下，Demo要的时间也很急，也是边做边学，做完回过头来看看，好多地方都不如意，比较乱，然后学习了一下官网的[教程](http://unity3d.com/learn/tutorials/projects/survival-shooter)，这个教程是基于Unity4.6版本的，添加了Unity自己的新UI模块，更便于制作UI。
 
 为了练练手，就模仿Flapyp bird这款很火的游戏写了一个小作品，因为没有使用什么素材，除了背景从网上找了一张图片外其他都是Unity本来的东西，主角就使用了一个椭圆的球体来代替，看上去就像一个蛋，所以我称之为Flappy Egg，下面是游戏截图：
 
