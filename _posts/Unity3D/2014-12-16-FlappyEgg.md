@@ -12,7 +12,7 @@ category: Unity3D
 
 为了练练手，就模仿Flapyp bird这款很火的游戏写了一个小作品，因为没有使用什么素材，除了背景从网上找了一张图片外其他都是Unity本来的东西，主角就使用了一个椭圆的球体来代替，看上去就像一个蛋，所以我称之为Flappy Egg，下面是游戏截图：
 
-![egg](images/flappyegg.jpeg)
+![egg](/public/upload/picture/Unity3D/flappyegg.jpeg)
 
 ###障碍物
 
@@ -94,11 +94,11 @@ category: Unity3D
 ### UI
 游戏过程中只是简单的添加了一个得分label，游戏结束后会有一个带有动画的界面如图：
 
-![](images/gameover.png)
+![](/public/upload/picture/Unity3D/gameover.png)
 
 Game Over 以及 Restart 按钮会有一个从小到大再稍微缩小的动画，这个是通过自定义Animation来实现的。
 
-![](images/animation.png)
+![](/public/upload/picture/Unity3D/animation.png)
 
 
 整个实现过程还是很简单的，代码也没有多少，总的来说Unity3D已经做好了很多东西，简化了整个制作过程。
