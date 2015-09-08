@@ -3,7 +3,7 @@ layout: post
 comment: true
 title: nginx-rtmp-module
 author: guiyuan
-date:
+date: 2015-09-08 23:24:15 
 category: Nginx
 keywords: Nginx, rtmp
 description: Install nginx-rtmp-module

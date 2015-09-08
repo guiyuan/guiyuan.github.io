@@ -3,7 +3,7 @@ layout: post
 comment: true
 title: Getting number of subscribers
 author: guiyuan
-date:
+date: 2015-09-08 23:24:51
 category: Nginx
 keywords: Nginx, rtmp
 description: Getting number of subscribers
