@@ -11,14 +11,6 @@ description: Getting number of subscribers
 ---
 
 想要在nginx－rtmp中统计某个频道的观看数量的又一个简单的方法。
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">	
-<xsl:output method="html"/>
-<xsl:param name="app"/>
-<xsl:param name="name"/>
-<xsl:template match="/">
-    <xsl:value-of select="count(//application[name=$app]/live/stream[name=$name]/client[not(publishing) and flashver])"/>
-</xsl:template>
-</xsl:stylesheet>
 
 1. 需要在编译nginx的时候添加--with-http_xslt_module选项，即：
 	<pre>./configure --with-http_xslt_module ...other </pre>
