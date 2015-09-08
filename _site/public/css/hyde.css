@@ -54,7 +54,7 @@ html {
  */
 
 .sidebar {
-  visiability:hidden;
+  visibility:hidden;
   height: 8.5rem;
   text-align: center;
   color: rgba(255,255,255,.5);
@@ -62,14 +62,14 @@ html {
 }
 @media (min-width: 48rem) {
   .sidebar {
-    visiability:visible;
+    visibility:visible;
     padding: 2rem 1rem;
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
     width: 18rem;
-    height:initial;
+    height:auto;
     text-align: left;
   }
 }
