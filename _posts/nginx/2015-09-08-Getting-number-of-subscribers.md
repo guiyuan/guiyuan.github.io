@@ -1,6 +1,6 @@
 ---
 layout: post
-comment: true
+comments: true
 title: Getting number of subscribers
 author: guiyuan
 date: 2015-09-08 23:24:51

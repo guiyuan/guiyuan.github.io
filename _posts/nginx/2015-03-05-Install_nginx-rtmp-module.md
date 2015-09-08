@@ -1,6 +1,6 @@
 ---
 layout: post
-comment: true
+comments: true
 title: nginx-rtmp-module
 author: guiyuan
 date: 2015-09-08 23:24:15 

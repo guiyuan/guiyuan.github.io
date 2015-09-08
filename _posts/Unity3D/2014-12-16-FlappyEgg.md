@@ -1,6 +1,6 @@
 ---
 layout: post
-comment: true
+comments: true
 title: Flappy Egg
 author: guiyuan
 date: 2014-12-16 23:14:47
