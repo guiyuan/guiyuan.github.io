@@ -4,7 +4,7 @@ comments: true
 title: Getting number of subscribers
 author: guiyuan
 date: 2015-09-08 23:24:51
-category: Nginx
+categories: Nginx
 keywords: Nginx, rtmp
 description: Getting number of subscribers
 

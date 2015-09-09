@@ -4,7 +4,7 @@ comments: true
 title: nginx-rtmp-module
 author: guiyuan
 date: 2015-09-08 23:24:15 
-category: Nginx
+categories: Nginx
 keywords: Nginx, rtmp
 description: Install nginx-rtmp-module
 
