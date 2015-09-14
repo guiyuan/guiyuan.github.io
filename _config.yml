@@ -11,5 +11,7 @@ domain_name: 'http://guiyuan.name'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://guiyuan.github.io'
+url:            'http://guiyuan.name'
 author:         'Guiyuan Ji'
+
+gems: - jekyll-feed
