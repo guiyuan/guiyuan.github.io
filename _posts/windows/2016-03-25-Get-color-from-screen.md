@@ -24,9 +24,10 @@ mouseHook = SetWindowsHookEx(WH_MOUSE_LL, MouseProc, GetModuleHandle(NULL), 0);
 // 卸载钩子
 UnhookWindowsHookEx(mouseHook);
 ```
-鼠标钩子类型有两种，这里使用了WH_MOUSE_LL类型，还有一种WH_MOUSE:
-1.WH_MOUSE_LL 这个称为低级鼠标钩子，可以监测到整个系统的鼠标事件
-2.WH_MOUSE 这个只能监测到钩子所在模块的鼠标事件
+鼠标钩子类型有两种，这里使用了WH\_MOUSE\_LL类型，还有一种WH\_MOUSE:
+
+1.WH\_MOUSE\_LL 这个称为低级鼠标钩子，可以监测到整个系统的鼠标事件
+2.WH\_MOUSE 这个只能监测到钩子所在模块的鼠标事件
 
 MouseProc是自己处理鼠标消息的回调函数：
 
