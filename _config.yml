@@ -14,4 +14,3 @@ google_analytics: 'UA-XXXXXXXX-X'
 url:            'http://guiyuan.name'
 author:         'Guiyuan Ji'
 
-permalink: /:month-:day-:year/:title.html
